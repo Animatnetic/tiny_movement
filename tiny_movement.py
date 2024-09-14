@@ -1,6 +1,4 @@
 """
-NOTE, THIS IS THE ONE THAT IS IN THE "mu_code" DIRECTORY
-
 Micro:Bit->TinyBitRobot: Movement Module
 
 This was made in order to combat the "trial-and-error" approach to rotating the robot, I don't have an encoder but the closest
